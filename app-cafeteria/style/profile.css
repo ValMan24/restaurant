@@ -1,0 +1,33 @@
+.ubicarPerfil {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.perfil {
+    display: flex;
+    flex-direction: column;
+    padding: 1.5rem 2rem;
+    border: 1px solid rgba(0, 0, 0, 0.343);
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+   border-radius: 1rem;
+    background-color: #b2e2b2;
+    gap: 1rem;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 0.5rem;
+
+}
+.description {
+    height: 40%;
+    width: 100%;
+    background: white;
+    padding: 0.4rem;
+    border-radius: 1rem;
+}
