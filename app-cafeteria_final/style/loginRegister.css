@@ -25,17 +25,14 @@ main {
 form {
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 1rem;
 }
 input{
     height: 3rem;
     border-radius: 10px;
 }
-/* .register{
-    width: 40%;
-    background-color: antiquewhite;
-}
-.login {
-    width: 40%;
-    background-color: antiquewhite;
-} */
+   span{
+        
+        font-size: 15px;
+        
+    }
